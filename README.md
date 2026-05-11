@@ -1,4 +1,4 @@
-![background](https://github.com/user-attachments/assets/74f81674-d5b4-44dc-abf5-6f590c41bc71)
+![background](./assets/background.png)
 <h1 align="center">Hi 👋, I'm Arsenie 🧙‍♂️</h1>
 <!-- 
 <h3 align="center">Software Engineering from CHCH New Zealand</h3>
