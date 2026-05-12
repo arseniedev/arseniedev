@@ -1,4 +1,4 @@
-![background](./assets/bg.png)
+![background](./assets/bg-white.png)
 <h1 align="center">Hi 👋, I'm Arsenie 🧙‍♂️</h1>
 <!-- 
 <h3 align="center">Software Engineering from CHCH New Zealand</h3>
