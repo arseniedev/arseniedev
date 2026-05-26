@@ -36,16 +36,13 @@ STATUS    : [▓▓▓▓▓▓▓▓░░]  building ShiftSync...
 </div>
   
 <div>
-────────── ⋆⋅☆⋅⋆ ──────────
-</br></br>
 I build apps that blend accessibility, security, and a touch of whimsy. 
 Tools that feel intuitive, playful, and quietly ambitious.
 Always levelling up, always exploring new worlds, crafting tools that lightens the load.
 
 </div>
 </br>
-
----
+────────── ⋆⋅☆⋅⋆ ──────────
 
 ## 📜 &nbsp;`CURRENT_QUEST.log()`
 <div align="left">
@@ -62,7 +59,7 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 </div>
 
 ---
-<div>
+  
 ## 🔮 &nbsp;`SPELLBOOK.open()` — Tech Stack
 ### ⚡ Core Frontend
 
@@ -76,7 +73,6 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 ![Astro](https://img.shields.io/badge/AstroJS-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-%235A0FC8.svg?style=for-the-badge&logo=pwa&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 🔹 Other Programming Languages
 
@@ -94,7 +90,6 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 ![Appium](https://img.shields.io/badge/Appium-%23662D91.svg?style=for-the-badge&logo=appium&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
-![AWS Device Farm](https://img.shields.io/badge/AWS_Device_Farm-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 
@@ -140,11 +135,11 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 ![Power Apps](https://img.shields.io/badge/Power_Apps-%23742774.svg?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Dataverse](https://img.shields.io/badge/Dataverse-%23258FFA.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-</div>
+</br>
 
-## 📊 &nbsp;`STATS_MODULE.render()`
+────────── ⋆⋅☆⋅⋆ ──────────
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arseniedev&theme=tokyonight)
+</br>
 
 ---
 
@@ -180,7 +175,13 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 
 ---
 
+## 📊 &nbsp;`STATS_MODULE.render()`
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arseniedev&theme=tokyonight)
+
 <div>
+
+---
 
 *Made with* 🧙‍♂️ *and a sprinkle of arcane CSS*
 
