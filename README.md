@@ -178,6 +178,62 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 ## ⏱️ `CODING_TIME.log()`
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2040%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.5 MB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 28 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                928 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+🌆 Daytime                1210 commits        ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+🌃 Evening                1285 commits        ███████░░░░░░░░░░░░░░░░░░   27.35 % 
+🌙 Night                  1276 commits        ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   682 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Tuesday                  461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Wednesday                761 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Thursday                 1292 commits        ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+Friday                   454 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Saturday                 601 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Sunday                   448 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Pacific/Auckland
+
+💬 Programming Languages: 
+Markdown                 54 mins             ████████████████░░░░░░░░░   62.86 % 
+JavaScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Git Config               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+
+🔥 Editors: 
+Cursor                   1 hr 26 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 26/05/2026 13:00:12 UTC
 <!--END_SECTION:waka-->
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arseniedev&theme=tokyonight)
