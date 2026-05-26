@@ -23,12 +23,22 @@
 ## 👾 &nbsp;`PLAYER_PROFILE.load()`
 
 ```
-CLASS     : Multi-faceted Developer
-ARCHETYPE : Strava Runner · Cinephile · Artist · Storyteller · Cinephile
+CLASS     : Arcane Engineer
+ARCHETYPE : Strava Runner · Cinephile · Artist · Storyteller · Cinephile · Multi-faceted
 REGION    : Canterbury, New Zealand 🥝
 STATUS    : [▓▓▓▓▓▓▓▓░░]  building ShiftSync...
 
 ```
+</br>
+<div align="center">
+────────── ⋆⋅☆⋅⋆ ──────────
+</br></br>
+I build apps that blend accessibility, security, and a touch of whimsy. 
+Tools that feel intuitive, playful, and quietly ambitious.
+Always levelling up, always exploring new worlds, crafting tools that lightens the load.
+
+</div>
+</br>
 
 ---
 
