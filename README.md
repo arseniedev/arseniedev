@@ -56,7 +56,7 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 ▶  Exploring the Mythos AI frontier and its creative workflows
 ▶  Grinding XP in game dev — C++ engines by day, Unity builds by night
 ▶  Preparing for the Azure SC‑900 milestone on the certification path
-▶ Picking up a bit of ASL as a small side‑quest skill
+▶  Picking up a bit of ASL as a small side‑quest skill
 
 ```
 </div>
