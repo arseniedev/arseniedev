@@ -1,6 +1,7 @@
 ![background](./assets/bg-white.png)
-
 <div align="center">
+  
+<div>
 
 # `> ARSENIE.EXE` &nbsp;🧙‍♂️
 
@@ -22,6 +23,8 @@
 
 ## 👾 &nbsp;`PLAYER_PROFILE.load()`
 
+<div align="left">
+  
 ```
 CLASS     : Arcane Engineer
 ARCHETYPE : Strava Runner · Cinephile · Artist · Storyteller · Cinephile · Multi-faceted
@@ -30,7 +33,9 @@ STATUS    : [▓▓▓▓▓▓▓▓░░]  building ShiftSync...
 
 ```
 </br>
-<div align="center">
+</div>
+  
+<div>
 ────────── ⋆⋅☆⋅⋆ ──────────
 </br></br>
 I build apps that blend accessibility, security, and a touch of whimsy. 
@@ -43,20 +48,21 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 ---
 
 ## 📜 &nbsp;`CURRENT_QUEST.log()`
-
+<div align="left">
+  
 ```
-▶  Building out [`ShiftSync`](https://github.com/arseniedev/draft-project-shift-sync)
+▶  Working on [ShiftSync](https://github.com/arseniedev/draft-project-shift-sync)
 ▶  Levelling up in the Copilot + Power Platform ecosystem (Dataverse, PowerApps, Power Pages)
 ▶  Exploring the Mythos AI frontier and its creative workflows
 ▶  Grinding XP in game dev — C++ engines by day, Unity builds by night
 ▶  Preparing for the Azure SC‑900 milestone on the certification path
 
 ```
+</div>
 
 ---
-
+<div>
 ## 🔮 &nbsp;`SPELLBOOK.open()` — Tech Stack
-
 ### ⚡ Core Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -71,26 +77,12 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
----
-
 ### 🔹 Other Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
----
-
-### 🤖 AI-Assisted Development
-
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-%2374aa9c.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Copilot Studio + RAG](https://img.shields.io/badge/Copilot_Studio_%2B_RAG-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Mythos AI](https://img.shields.io/badge/Mythos_AI-%23FF6B6B.svg?style=for-the-badge&logo=sparkles&logoColor=white)
-
----
 
 ### 🧪 Testing & QA
 
@@ -103,8 +95,6 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 ![Jasmine](https://img.shields.io/badge/Jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 ![AWS Device Farm](https://img.shields.io/badge/AWS_Device_Farm-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
-
 ### ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -113,8 +103,6 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-%231D9FD7.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-
----
 
 ### 🔌 API & Backend
 
@@ -128,8 +116,6 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mailpit](https://img.shields.io/badge/Mailpit-%23008080.svg?style=for-the-badge&logo=maildotru&logoColor=white)
 
----
-
 ### 🔧 Version Control, Workflow & Design
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -140,7 +126,6 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 ![Zephyr](https://img.shields.io/badge/Zephyr-%2300B0D8.svg?style=for-the-badge&logo=zotero&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white)
----
 
 ### 📐 Frameworks & Methodologies
 
@@ -149,21 +134,16 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 ![Design Thinking](https://img.shields.io/badge/Design_Thinking-%23FF6B6B.svg?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Agile Scrum](https://img.shields.io/badge/Agile_Scrum-%230052CC.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
----
-
 ### 🌱 Power Platform
 ![Power Automate](https://img.shields.io/badge/Power_Automate-%230066FF.svg?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-%23742774.svg?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Dataverse](https://img.shields.io/badge/Dataverse-%23258FFA.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
+</div>
 
 ## 📊 &nbsp;`STATS_MODULE.render()`
 
-<!-- Public‑safe GitHub stats (no private activity shown) -->
-
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arseniedev&theme=tokyonight)
-
 
 ---
 
@@ -199,10 +179,11 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 
 ---
 
-<div align="center">
+<div>
 
 *Made with* 🧙‍♂️ *and a sprinkle of arcane CSS*
 
 `✦ per aspera ad astra ✦`
-
 </div>
+
+<div>
