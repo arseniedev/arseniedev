@@ -42,42 +42,10 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 
 ---
 
-## 🏆 &nbsp;`ACHIEVEMENTS.unlock()`
-
-<div align="center">
-<div style="width: 100%;">
-  <table style="width: 100%;">
-    <tr>
-      <th>Certification</th>
-      <th>Domain</th>
-      <th>Status</th>
-    </tr>
-    <tr>
-      <td><strong>Microsoft Azure Security — SC-900</strong></td>
-      <td>Cloud Security</td>
-      <td>🔄 In Progress</td>
-    </tr>
-    <tr>
-      <td><strong>Microsoft Azure Fundamentals — AZ-900</strong></td>
-      <td>Cloud Computing</td>
-      <td>✅ Certified</td>
-    </tr>
-    <tr>
-      <td><strong>CompTIA IT Fundamentals — ITF+</strong></td>
-      <td>IT Fundamentals</td>
-      <td>✅ Certified</td>
-    </tr>     
-  </table>
-</div>
-
-</div>
-
----
-
 ## 📜 &nbsp;`CURRENT_QUEST.log()`
 
 ```
-▶  Building out [`ShiftSync`](https://github.com/arseniedev/draft-project-shift-sync) — a roster management tool forged in NZ
+▶  Building out [`ShiftSync`](https://github.com/arseniedev/draft-project-shift-sync)
 ▶  Levelling up in the Copilot + Power Platform ecosystem (Dataverse, PowerApps, Power Pages)
 ▶  Exploring the Mythos AI frontier and its creative workflows
 ▶  Grinding XP in game dev — C++ engines by day, Unity builds by night
@@ -196,6 +164,38 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arseniedev&theme=tokyonight)
 
+
+---
+
+## 🏆 &nbsp;`ACHIEVEMENTS.unlock()`
+
+<div align="center">
+<div style="width: 100%;">
+  <table style="width: 100%;">
+    <tr>
+      <th>Certification</th>
+      <th>Domain</th>
+      <th>Status</th>
+    </tr>
+    <tr>
+      <td><strong>Microsoft Azure Security — SC-900</strong></td>
+      <td>Cloud Security</td>
+      <td>🔄 In Progress</td>
+    </tr>
+    <tr>
+      <td><strong>Microsoft Azure Fundamentals — AZ-900</strong></td>
+      <td>Cloud Computing</td>
+      <td>✅ Certified</td>
+    </tr>
+    <tr>
+      <td><strong>CompTIA IT Fundamentals — ITF+</strong></td>
+      <td>IT Fundamentals</td>
+      <td>✅ Certified</td>
+    </tr>     
+  </table>
+</div>
+
+</div>
 
 ---
 
