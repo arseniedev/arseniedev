@@ -175,7 +175,10 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 
 ---
 
-## 📊 &nbsp;`STATS_MODULE.render()`
+## ⏱️ `CODING_TIME.log()`
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arseniedev&theme=tokyonight)
 
