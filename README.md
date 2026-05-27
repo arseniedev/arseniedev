@@ -181,8 +181,6 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 11 Public Repositories 
  > 
 > 🔑 28 Private Repositories 
