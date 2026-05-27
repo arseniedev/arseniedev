@@ -15,9 +15,14 @@
 &nbsp;
 ![Location](https://img.shields.io/badge/📍_Christchurch,_NZ-1a1a2e?style=for-the-badge&labelColor=16213e)
 &nbsp;
+[![View My Repositories](https://img.shields.io/badge/GitHub-View%20All%20Repos-181717?style=for-the-badge&logo=github)](https://github.com/arseniedev?tab=repositories)
 
 
 </div>
+
+---
+
+
 
 ---
 
@@ -53,6 +58,7 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 ▶  Exploring the Mythos AI frontier and its creative workflows
 ▶  Grinding XP in game dev — C++ engines by day, Unity builds by night
 ▶  Preparing for the Azure SC‑900 milestone on the certification path
+▶  Venturing into the realms of Terraform and CI/CD.
 ▶  Picking up a bit of ASL as a small side‑quest skill
 
 ```
@@ -61,25 +67,23 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 ---
   
 ## 🔮 &nbsp;`SPELLBOOK.open()` — Tech Stack
-### ⚡ Core Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+### 🔹 Programming Languages
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### ⚡ Core Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Astro](https://img.shields.io/badge/AstroJS-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-%235A0FC8.svg?style=for-the-badge&logo=pwa&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
-
-### 🔹 Other Programming Languages
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🧪 Testing & QA
 
@@ -95,10 +99,10 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_AZ--900_✓-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-%231D9FD7.svg?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🔌 API & Backend
 
@@ -112,23 +116,14 @@ Always levelling up, always exploring new worlds, crafting tools that lightens t
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mailpit](https://img.shields.io/badge/Mailpit-%23008080.svg?style=for-the-badge&logo=maildotru&logoColor=white)
 
-### 🔧 Version Control, Workflow & Design
+### 🔧 Workflow & Design
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Zephyr](https://img.shields.io/badge/Zephyr-%2300B0D8.svg?style=for-the-badge&logo=zotero&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-### 📐 Frameworks & Methodologies
-
-![ITIL v4](https://img.shields.io/badge/ITIL_v4-%23800000.svg?style=for-the-badge&logoColor=white)
-![COBIT 2019](https://img.shields.io/badge/COBIT_2019-%23003366.svg?style=for-the-badge&logoColor=white)
-![Design Thinking](https://img.shields.io/badge/Design_Thinking-%23FF6B6B.svg?style=for-the-badge&logo=adobexd&logoColor=white)
-![Agile Scrum](https://img.shields.io/badge/Agile_Scrum-%230052CC.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ### 🌱 Power Platform
 ![Power Automate](https://img.shields.io/badge/Power_Automate-%230066FF.svg?style=for-the-badge&logo=powerautomate&logoColor=white)
@@ -235,9 +230,6 @@ Windows                  1 hr 26 mins        ███████████�
 
  Last Updated on 26/05/2026 13:27:30 UTC
 <!--END_SECTION:waka-->
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arseniedev&theme=tokyonight)
-
 <div>
 
 ---
