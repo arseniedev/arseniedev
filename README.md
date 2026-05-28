@@ -14,11 +14,11 @@
 &nbsp;
 </br>
 </br> 
-[![View My Projects!](https://img.shields.io/badge/GitHub-View%20My%20Projects!-181717?style=for-the-badge&logo=github)](https://github.com/arseniedev?tab=repositories)
+[![View My Projects!](https://img.shields.io/badge/GitHub-View%20My%20Projects!-181717?style=for-the-badge&logo=github&labelColor=080182)](https://github.com/arseniedev?tab=repositories)
 
 </div>
 
-## 👾 &nbsp;`PLAYER_PROFILE.load()`
+## 👾 &nbsp;`DEV_PROFILE.load()`
 <div>
   I build apps that blend accessibility, security, and a touch of whimsy. 
   Tools that feel intuitive, playful, and quietly ambitious.
