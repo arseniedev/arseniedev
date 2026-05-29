@@ -164,9 +164,36 @@
 ## ⏱️ `CODING_TIME.log()`
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Pacific/Auckland
+
+💬 Programming Languages: 
+HTML                     4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.44 % 
+Python                   4 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+Markdown                 3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+CSS                      1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+
+🔥 Editors: 
+VS Code                  15 hrs 10 mins      ████████████████████████░   96.16 % 
+Cursor                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+
+🐱‍💻 Projects: 
+music-catalogue          13 hrs 18 mins      █████████████████████░░░░   84.25 % 
+Documents                1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+triathlon-app            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+oarbit-pulse             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+template-1               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+
+💻 Operating System: 
+Windows                  15 hrs 47 mins      █████████████████████████   100.00 % 
+```
 
 
  Last Updated on 29-05-2026 UTC
