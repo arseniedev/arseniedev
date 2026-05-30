@@ -164,7 +164,7 @@
 ## ⏱️ `CODING_TIME.log()`
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -174,29 +174,29 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-HTML                     4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.44 % 
-Python                   4 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-Markdown                 3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-CSS                      1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+HTML                     16 hrs 25 mins      ████████████░░░░░░░░░░░░░   49.05 % 
+CSS                      6 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Python                   5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Markdown                 3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 10 mins      ████████████████████████░   96.16 % 
-Cursor                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+VS Code                  32 hrs 52 mins      █████████████████████████   98.19 % 
+Cursor                   36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🐱‍💻 Projects: 
-music-catalogue          13 hrs 18 mins      █████████████████████░░░░   84.25 % 
-Documents                1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-triathlon-app            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-oarbit-pulse             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-template-1               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+music-catalogue          30 hrs 5 mins       ██████████████████████░░░   89.87 % 
+Documents                1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+triathlon-app            32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+oarbit-pulse             23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+template-1               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-Windows                  15 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29-05-2026 UTC
+ Last Updated on 30-05-2026 UTC
 <!--END_SECTION:waka-->
 
 </br>
