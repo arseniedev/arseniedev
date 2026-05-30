@@ -1,8 +1,6 @@
-![background](./assets/bg-white.png)
 <div align="center">
-  
+  <img width="185" height="197" alt="3cf65aeb-642a-4c08-a893-6ef2239ddd288f5" src="https://github.com/arseniedev/arseniedev/blob/main/assets/icon.png" />  
 <div>
-
 # `> ARSENIE.EXE` &nbsp;🧙‍♂️
 
 **`[ FRONTEND WIZARD · AI CONJURER · QUALITY GUARDIAN ]`**
