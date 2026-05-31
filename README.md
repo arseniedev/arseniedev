@@ -164,7 +164,7 @@
 ## ⏱️ `CODING_TIME.log()`
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -174,25 +174,25 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-HTML                     16 hrs 25 mins      ████████████░░░░░░░░░░░░░   49.05 % 
-CSS                      6 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Python                   5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Markdown                 3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+HTML                     17 hrs 47 mins      ██████████░░░░░░░░░░░░░░░   38.76 % 
+CSS                      6 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Markdown                 5 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Python                   5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Git Config               2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 52 mins      █████████████████████████   98.19 % 
-Cursor                   36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+VS Code                  45 hrs 18 mins      █████████████████████████   98.68 % 
+Cursor                   36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🐱‍💻 Projects: 
-music-catalogue          30 hrs 5 mins       ██████████████████████░░░   89.87 % 
-Documents                1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-triathlon-app            32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-oarbit-pulse             23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-template-1               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+music-catalogue          30 hrs 35 mins      █████████████████░░░░░░░░   66.63 % 
+blueprint-nz             6 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+oarbit-pulse             4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Documents                1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+sample                   41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 💻 Operating System: 
-Windows                  33 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  45 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 
