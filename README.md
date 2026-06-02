@@ -164,9 +164,9 @@
 ## ⏱️ `CODING_TIME.log()`
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2044%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -196,7 +196,7 @@ Windows                  45 hrs 55 mins      ███████████�
 ```
 
 
- Last Updated on 01-06-2026 UTC
+ Last Updated on 02-06-2026 UTC
 <!--END_SECTION:waka-->
 
 </br>
