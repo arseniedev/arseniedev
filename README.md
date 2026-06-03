@@ -174,25 +174,25 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-HTML                     18 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   36.16 % 
-CSS                      6 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Markdown                 6 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Python                   5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Git Config               3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+HTML                     18 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   36.98 % 
+CSS                      6 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Python                   5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Markdown                 5 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Git Config               3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 
 🔥 Editors: 
-VS Code                  50 hrs 8 mins       █████████████████████████   99.11 % 
-Cursor                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+VS Code                  49 hrs 13 mins      █████████████████████████   99.85 % 
+Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-music-catalogue          31 hrs 34 mins      ████████████████░░░░░░░░░   62.42 % 
-blueprint-nz             6 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-oarbit-pulse             4 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-triathlon-app            3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Documents                1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+music-catalogue          31 hrs 34 mins      ████████████████░░░░░░░░░   64.05 % 
+blueprint-nz             6 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+oarbit-pulse             4 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+triathlon-app            3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Documents                1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 💻 Operating System: 
-Windows                  50 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  49 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 
