@@ -174,29 +174,28 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-HTML                     16 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   38.31 % 
-CSS                      6 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Markdown                 4 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Git Config               3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-JSON                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+HTML                     13 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   36.66 % 
+CSS                      4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Markdown                 4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Git Config               3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+JSON                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 🔥 Editors: 
-VS Code                  42 hrs 48 mins      █████████████████████████   99.83 % 
-Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+VS Code                  36 hrs 55 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-music-catalogue          23 hrs 42 mins      ██████████████░░░░░░░░░░░   55.30 % 
-blueprint-nz             6 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-oarbit-pulse             4 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-triathlon-app            3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-eyeball-maze             1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+music-catalogue          18 hrs 16 mins      ████████████░░░░░░░░░░░░░   49.49 % 
+blueprint-nz             6 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+oarbit-pulse             4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+triathlon-app            3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+eyeball-maze             1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 💻 Operating System: 
-Windows                  42 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  36 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05-06-2026 UTC
+ Last Updated on 06-06-2026 UTC
 <!--END_SECTION:waka-->
 
 </br>
