@@ -164,7 +164,7 @@
 ## ⏱️ `CODING_TIME.log()`
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -174,28 +174,28 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-HTML                     13 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   36.66 % 
-CSS                      4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Markdown                 4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Git Config               3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-JSON                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Markdown                 3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.98 % 
+TypeScript               1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+JSON                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Git Config               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+HTML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 44 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-music-catalogue          18 hrs 16 mins      ████████████░░░░░░░░░░░░░   49.49 % 
-blueprint-nz             6 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-oarbit-pulse             4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-triathlon-app            3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-eyeball-maze             1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+oarbit-pulse             4 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.37 % 
+triathlon-app            3 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.65 % 
+eyeball-maze             1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+music-catalogue          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+blueprint-nz             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 💻 Operating System: 
-Windows                  36 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06-06-2026 UTC
+ Last Updated on 07-06-2026 UTC
 <!--END_SECTION:waka-->
 
 </br>
