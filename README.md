@@ -174,28 +174,28 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Markdown                 3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.98 % 
-TypeScript               1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-JSON                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Git Config               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-HTML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Markdown                 2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.15 % 
+Git Config               53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+JSON                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+JavaScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+HTML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  7 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-oarbit-pulse             4 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.37 % 
-triathlon-app            3 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.65 % 
-eyeball-maze             1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-music-catalogue          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-blueprint-nz             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+triathlon-app            3 hrs 28 mins       ████████████░░░░░░░░░░░░░   49.24 % 
+eyeball-maze             1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+music-catalogue          58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+vite-monorepo            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 💻 Operating System: 
-Windows                  11 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07-06-2026 UTC
+ Last Updated on 08-06-2026 UTC
 <!--END_SECTION:waka-->
 
 </br>
