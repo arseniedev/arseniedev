@@ -174,28 +174,26 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Markdown                 2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.15 % 
-Git Config               53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-JSON                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-JavaScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-HTML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Markdown                 1 hr 24 mins        ████████████████░░░░░░░░░   63.07 % 
+Java                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+XML                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Groovy                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-triathlon-app            3 hrs 28 mins       ████████████░░░░░░░░░░░░░   49.24 % 
-eyeball-maze             1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-music-catalogue          58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-vite-monorepo            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+eyeball-maze             1 hr 55 mins        ██████████████████████░░░   86.40 % 
+Unknown Project          15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+mp4-to-gif               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 💻 Operating System: 
-Windows                  7 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08-06-2026 UTC
+ Last Updated on 09-06-2026 UTC
 <!--END_SECTION:waka-->
 
 </br>
