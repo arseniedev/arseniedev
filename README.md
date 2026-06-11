@@ -168,32 +168,8 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Pacific/Auckland
-
-💬 Programming Languages: 
-Markdown                 1 hr 24 mins        ████████████████░░░░░░░░░   63.07 % 
-Java                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-XML                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Groovy                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-eyeball-maze             1 hr 55 mins        ██████████████████████░░░   86.40 % 
-Unknown Project          15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-mp4-to-gif               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-
-💻 Operating System: 
-Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 10-06-2026 UTC
+ Last Updated on 11-06-2026 UTC
 <!--END_SECTION:waka-->
 
 </br>
