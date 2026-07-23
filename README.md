@@ -115,10 +115,10 @@
   
 ```
 ▶  Working on [ShiftSync](https://github.com/arseniedev/draft-project-shift-sync)
+▶  Preparing for the Claude CCD-F milestone on the certification path
 ▶  Levelling up in the Copilot + Power Platform ecosystem (Dataverse, PowerApps, Power Pages)
-▶  Exploring the Mythos AI frontier and its creative workflows
 ▶  Grinding XP in game dev — C++ engines by day, Unity builds by night
-▶  Preparing for the Azure SC‑900 milestone on the certification path
+▶  Exploring the Mythos AI frontier and its creative workflows
 ▶  Venturing into the realms of Terraform and CI/CD.
 ▶  Picking up a bit of ASL as a small side‑quest skill
 
@@ -138,9 +138,14 @@
       <th>Status</th>
     </tr>
     <tr>
+      <td><strong>Claude Certified Developer Foundations — CCD-F</strong></td>
+      <td>Claude for Developers</td>
+      <td>🔄 In Progress</td>
+    </tr>
+    <tr>
       <td><strong>Microsoft Azure Security — SC-900</strong></td>
       <td>Cloud Security</td>
-      <td>🔄 In Progress</td>
+      <td>✅ Certified</td>
     </tr>
     <tr>
       <td><strong>Microsoft Azure Fundamentals — AZ-900</strong></td>
