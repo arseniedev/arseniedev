@@ -22,16 +22,17 @@
 <div>
   I build apps that blend accessibility, security, and a touch of whimsy. 
   Tools that feel intuitive, playful, and quietly ambitious.
-  Always levelling up, always exploring new worlds, crafting tools that lightens the load.
+  Always levelling up, always exploring new worlds, crafting tools that lighten the load.
 </div>
 </br>
 <div align="left">
   
   ```
-  CLASS     : Arcane Engineer
+  CLASS     : AI Security Engineer
   ARCHETYPE : Strava Runner · Cinephile · Artist · Storyteller · Cinephile · Multi-faceted
-  REGION    : Canterbury, New Zealand 
-  STATUS    : [▓▓▓▓▓▓▓▓░░]  building ShiftSync...
+  REGION    : Canterbury, New Zealand
+
+  STATUS    : [▓▓▓▓▓▓▓▓░░]  learning AI Engineering...
 
   ```
 </div>
@@ -39,7 +40,7 @@
 </br>
 ────────── ⋆⋅☆⋅⋆ ──────────
   
-## 🔮 &nbsp;`SPELLBOOK.open()` — Tech Stack
+## 🔮 &nbsp;`TECH_STACK.open()`
 
 #### `[• Programming Languages]`
 
@@ -110,24 +111,6 @@
 
 </br>
 
-## 📜 &nbsp;`CURRENT_QUEST.log()`
-<div align="left">
-  
-```
-▶  Working on [ShiftSync](https://github.com/arseniedev/draft-project-shift-sync)
-▶  Preparing for the Claude CCD-F milestone on the certification path
-▶  Levelling up in the Copilot + Power Platform ecosystem (Dataverse, PowerApps, Power Pages)
-▶  Grinding XP in game dev — C++ engines by day, Unity builds by night
-▶  Exploring the Mythos AI frontier and its creative workflows
-▶  Venturing into the realms of Terraform and CI/CD.
-▶  Picking up a bit of ASL as a small side‑quest skill
-
-```
-</div>
-
-</br>
-</br>
-
 ## 🏆 &nbsp;`ACHIEVEMENTS.unlock()`
 
 <div align="center" style="width: 100%;">
@@ -138,12 +121,17 @@
       <th>Status</th>
     </tr>
     <tr>
-      <td><strong>Claude Certified Developer Foundations — CCD-F</strong></td>
-      <td>Claude for Developers</td>
+      <td><strong>Azure AI Apps and Agents Developer Associate — AI-103</strong></td>
+      <td>Agentic workflows, MS Foundry, RAG, Multimodal systems, Responsible AI</td>
       <td>🔄 In Progress</td>
     </tr>
     <tr>
-      <td><strong>Microsoft Azure Security — SC-900</strong></td>
+      <td><strong>SQL AI Developer Associate — DP-800</strong></td>
+      <td>AI & Vector Integration, Database Fundamentals, Security & Optimization, DevOps</td>
+      <td>🔄 In Progress</td>
+    </tr>
+    <tr>
+      <td><strong>Microsoft Azure Security Fundamentals — SC-900</strong></td>
       <td>Cloud Security</td>
       <td>✅ Certified</td>
     </tr>
@@ -166,6 +154,23 @@
 
 </br>
 
+## 📜 &nbsp;`CURRENT_QUEST.log()`
+<div align="left">
+  
+```
+▶  Working on [ShiftSync](https://github.com/arseniedev/draft-project-shift-sync)
+▶  Preparing for the Claude CCD-F milestone on the certification path
+▶  Levelling up in the Copilot + Power Platform ecosystem (Dataverse, PowerApps, Power Pages)
+▶  Grinding XP in game dev — C++ engines by day, Unity builds by night
+▶  Exploring the Mythos AI frontier and its creative workflows
+▶  Venturing into the realms of Terraform and CI/CD.
+▶  Picking up a bit of ASL as a small side‑quest skill
+
+```
+</div>
+
+</br>
+</br>
 
 ## ⏱️ `CODING_TIME.log()`
   
