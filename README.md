@@ -159,10 +159,10 @@
   
 ```
 ▶  Working on [ShiftSync](https://github.com/arseniedev/draft-project-shift-sync)
-▶  Preparing for the Claude CCD-F milestone on the certification path
-▶  Levelling up in the Copilot + Power Platform ecosystem (Dataverse, PowerApps, Power Pages)
+▶  Preparing for the AI-103 and DP-800 certification path
 ▶  Grinding XP in game dev — C++ engines by day, Unity builds by night
 ▶  Exploring the Mythos AI frontier and its creative workflows
+▶  Levelling up in the Copilot + Power Platform ecosystem (Dataverse, PowerApps, Power Pages)
 ▶  Venturing into the realms of Terraform and CI/CD.
 ▶  Picking up a bit of ASL as a small side‑quest skill
 
