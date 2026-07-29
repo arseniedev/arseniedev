@@ -121,6 +121,11 @@
       <th>Status</th>
     </tr>
     <tr>
+      <td><strong>Azure AI Fundamentals — AI-901</strong></td>
+      <td>AI workloads & responsible AI; machine learning fundamentals; computer vision; natural language processing; generative AI</td>
+      <td>🔄 In Progress</td>
+    </tr>
+    <tr>
       <td><strong>Azure AI Apps and Agents Developer Associate — AI-103</strong></td>
       <td>Agentic workflows, MS Foundry, RAG, Multimodal systems, Responsible AI</td>
       <td>🔄 In Progress</td>
