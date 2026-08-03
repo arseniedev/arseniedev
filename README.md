@@ -29,7 +29,7 @@
   
   ```
   CLASS     : AI Security Engineer
-  ARCHETYPE : Strava Runner · Cinephile · Artist · Storyteller · Cinephile · Multi-faceted
+  ARCHETYPE : Artist · Storyteller · Cinephile · Runner 
   REGION    : Canterbury, New Zealand
 
   STATUS    : [▓▓▓▓▓▓▓▓░░]  learning AI Engineering...
