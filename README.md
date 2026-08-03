@@ -5,7 +5,7 @@
   
 # `> ARSENIE.EXE` &nbsp;🧙‍♂️
 
-**`[ FRONTEND WIZARD · AI CONJURER · QUALITY GUARDIAN ]`**
+**`[· AI Security Engineer ·]`**
 
 *✦ per aspera ad astra ✦ · through hardship to the stars*
 
@@ -25,17 +25,6 @@
   Always levelling up, always exploring new worlds, crafting tools that lighten the load.
 </div>
 </br>
-<div align="left">
-  
-  ```
-  CLASS     : AI Security Engineer
-  ARCHETYPE : Artist · Storyteller · Cinephile · Runner 
-  REGION    : Canterbury, New Zealand
-
-  STATUS    : [▓▓▓▓▓▓▓▓░░]  learning AI Engineering...
-
-  ```
-</div>
     
 </br>
 ────────── ⋆⋅☆⋅⋆ ──────────
